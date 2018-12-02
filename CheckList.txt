@@ -1,0 +1,21 @@
+CheckList for triangle
+
+* check triangle
+ - sides with correct parameters (for each type of triangle)
+	- equilateral triangle
+	- isosceles triangle (try each side as base)
+	- ordynary 
+	- rectangular (try each side as hypotenuse)
+ - side less or equals zero (for each side)
+ - one side bigger than sum of other sides (for each side) 
+
+* detect triangle
+ - types of triangle
+	- equilateral triangle
+	- isossceles triangle (try each side as base)
+	- ordynary 
+	- rectangular (try each side as hypotenuse)
+
+* get square
+ - square with incorrect parameters for each side
+ - squre with correct parameters for all types of triangle
